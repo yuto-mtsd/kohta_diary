@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 
 const MOODS = [
   { score: 5, emoji: "◎", label: "最高", color: "#a8d8a8" },
